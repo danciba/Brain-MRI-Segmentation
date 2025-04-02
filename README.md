@@ -109,6 +109,6 @@ Brain-MRI-Segmentation/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Brain-MRI-Segmentation.git
+git clone https://github.com/danciba/Brain-MRI-Segmentation.git
 cd Brain-MRI-Segmentation
 
