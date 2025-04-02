@@ -1,0 +1,7 @@
+numpy==1.26.4              # Numerical operations and array handling
+scipy==1.13.1              # Scientific computation and filtering (e.g., gaussian_filter)
+scikit-image==0.23.2       # Morphological operations and image filtering
+opencv-python==4.10.0      # Image processing (e.g., thresholding, morphology)
+matplotlib==3.8.4          # Visualization of slices and segmentation results
+scikit-learn==1.4.2        # Evaluation metrics (Jaccard Index, F1 Score)
+pandas==2.2.2              # Tabular display and metric analysis
