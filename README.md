@@ -87,18 +87,18 @@ Below is a comparison between the **segmented output** and the **ground truth** 
 
 ---
 
-## File Structure
+## 📄 File Structure
 ```
 Brain-MRI-Segmentation/
 ├── Data/
 │   └── Brain.mat               # Dataset
 ├── Results/
 │   └── slice_comparison.png    # Results Images (segmented vs ground truth)
-├── Brain-MRI-Segmentation.py   # Main Python scrip
-├── README.md                   # Project documentation
+├── .gitattributes              # Git ignore file
 ├── LICENSE                     # License Project
-├── Requirements.txt            # List of dependencies
-└── .gitattributes              # Git ignore file
+├── README.md                   # Project documentation
+├── Brain-MRI-Segmentation.py   # Main Python scrip
+└── Requirements.txt            # List of dependencies
 
 ```
 
